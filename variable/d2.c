@@ -24,4 +24,17 @@ void main()
 	
 	printf("c =%d\n",c);
 	printf("d =%d\n",d);
+
+	
+	// 3. swaping of two variables without using third variable and without using -&=.
+	
+	int h = 20;
+	int m = 80;
+	
+	h = h * m ;
+	m = h / m ;
+	h = h / m ;
+	
+	printf("h =%d\n",h);
+	printf("m =%d\n",m);
 }
