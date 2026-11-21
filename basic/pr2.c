@@ -6,44 +6,44 @@ void main()
     
 
     
-    printf("A :   *   \n");
-    printf("A :  * *  \n");
-    printf("A : *   * \n");
-    printf("A : ***** \n");
-    printf("A : *   * \n");
-    printf("A : *   * \n\n");
+    printf("A :    *   \n");
+    printf("A :  *    *  \n");
+    printf("A : *      * \n");
+    printf("A : * * * * * \n");
+    printf("A : *       * \n");
+    printf("A : *       * \n\n");
 
     
-    printf("B : ****  \n");
-    printf("B : *   * \n");
-    printf("B : ****  \n");
-    printf("B : *   * \n");
-    printf("B : *   * \n");
-    printf("B : ****  \n\n");
+    printf("B : * * * *  \n");
+    printf("B : *       * \n");
+    printf("B : * * * *  \n");
+    printf("B : *       * \n");
+    printf("B : *       * \n");
+    printf("B : * * * *  \n\n");
 
     
-    printf("C : ***** \n");
+    printf("C : * * * *  * \n");
     printf("C : *     \n");
     printf("C : *     \n");
     printf("C : *     \n");
     printf("C : *     \n");
-    printf("C : ***** \n\n");
+    printf("C : * * * * * \n\n");
 
     
-    printf("D : ****  \n");
-    printf("D : *   * \n");
-    printf("D : *   * \n");
-    printf("D : *   * \n");
-    printf("D : *   * \n");
-    printf("D : ****  \n\n");
+    printf("D : * * * *  \n");
+    printf("D : *       * \n");
+    printf("D : *        * \n");
+    printf("D : *        * \n");
+    printf("D : *       * \n");
+    printf("D : * * * *  \n\n");
 
     
-    printf("E : ***** \n");
+    printf("E : * * * * * \n");
     printf("E : *     \n");
-    printf("E : ****  \n");
+    printf("E : * * * *  \n");
     printf("E : *     \n");
     printf("E : *     \n");
-    printf("E : ***** \n\n");
+    printf("E : * * * * * \n\n");
 
     
     printf("F : ***** \n");
